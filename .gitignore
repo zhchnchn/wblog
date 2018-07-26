@@ -17,6 +17,7 @@
 /.idea/
 
 # Output of project
+wblog
 *.db
 request.token
 /log/
